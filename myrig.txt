@@ -1,0 +1,8 @@
+My Rig:
+
+computer; ASUS X750J 8gig ram and 2 500 gig hds
+setup:    paging at 100gig and flash drive used as readyboost device for actual 40 gig ram
+LCDs: Onn 27" 4k LCD
+
+dev tools: VSCode, Android Studio, Fork-Git-Client, Gimp, Inkscape, Krita
+
