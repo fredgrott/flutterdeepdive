@@ -29,6 +29,7 @@ It's easier to start learning flutter if the app skeleton you start using is alr
 -[Cubit, the easy way to use provider]
 
 -[RiverPod, a more improved way to use provider]
+[base_riverpod](https://github.com/fredgrott/base_rvierpod)
 
 -[Mobx]
 
@@ -45,6 +46,8 @@ It's easier to start learning flutter if the app skeleton you start using is alr
 ## UI Exploration
 
 ## Dev-OPS Demos
+
+[Logging,The Expert Way at Medium.com](https://medium.com/p/logging-the-expert-way-5beb5c967e44)
 
 ## Deep Dive Series Book
 
